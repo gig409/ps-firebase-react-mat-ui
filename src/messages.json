@@ -1,0 +1,16 @@
+{
+  "messages": {
+    "0": {
+      "message": "Hi there, how are you?",
+      "date": "Wed, 08 Jun 2015 18:14:27 GMT",
+      "author": "Omar",
+      "profilePic": "O"
+    },
+    "1": {
+      "message": "I am fine, you?",
+      "date": "Wed, 08 Jun 2015 18:14:32 GMT",
+      "author": "Amir",
+      "profilePic": "A"
+    }
+  }
+}
