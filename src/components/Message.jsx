@@ -2,7 +2,6 @@ import React from 'react';
 import ListItem from 'material-ui/lib/lists/list-item';
 import styles from 'material-ui/lib/styles';
 import Avatar from 'material-ui/lib/avatar';
-import FileFolder from 'material-ui/lib/svg-icons/file/folder';
 
 const colors = styles.Colors;
 class Message extends React.Component {
@@ -20,8 +19,8 @@ class Message extends React.Component {
           backgroundColor={colors.pink400}
         >
           M
-        </Avatar>
-      }/>
+        </Avatar>}
+      />
     );
   }
 }

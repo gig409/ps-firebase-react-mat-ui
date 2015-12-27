@@ -29,7 +29,7 @@ class MessageBox extends React.Component {
       this.setState ({
         message: ''
       });
-
+      event.target.value = '';
       console.log('Send a new message: ', event.target.value);
     }
   }
